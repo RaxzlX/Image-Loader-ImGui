@@ -6,8 +6,7 @@ FYI: Pressing "Ctrl + F) And Searching "//Added" In My "main.cpp" Will Show Ever
 
 1. Download ImGui: https://github.com/ocornut/imgui
 
-2. Download MyImage01.jpg, And Place It In "C:" (Or You Can Change The File Location in My "main.cpp")  
-(bool ret = LoadTextureFromFile("YOURLOCATION\\MyImage01.jpg", &my_texture, &my_image_width, &my_image_height);) 
+2. Download MyImage01.jpg, And Place It In "C:"
 
 3. Replace "main.cpp" In "example_win32_directx9" Folder With My "main.cpp"
 
