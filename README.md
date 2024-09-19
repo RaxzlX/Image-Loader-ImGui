@@ -8,7 +8,7 @@ FYI: Pressing "Ctrl + F) And Searching "//Added" In My "main.cpp" Will Show Ever
 
 2. Download MyImage01.jpg, And Place It In "C:"
 
-3. Replace "main.cpp" In "example_win32_directx9" Folder With My "main.cpp"
+3. Replace "main.cpp" Code In "example_win32_directx9" Folder With My "main.cpp" Code
 
 
 
