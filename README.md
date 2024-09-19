@@ -1,6 +1,6 @@
 # Image-Loader-ImGui
 
-FYI: Pressing "Ctrl + F) And Searching "//Added" In My "main.cpp" Will Show Every Thing That Added"
+FYI: Pressing "Ctrl + F) And Searching "//Added" In My "main.cpp" Will Show Every Thing That's Been Added"
 
 (Steps)
 
